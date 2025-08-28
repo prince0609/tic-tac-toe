@@ -28,3 +28,9 @@
 .square:hover {
   background-color: #c1c1c1;
 }
+
+.result {
+  color: green;
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
